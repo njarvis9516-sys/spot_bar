@@ -1,7 +1,7 @@
 {
   "category": "music",
   "short_description": "it shows what you are playing",
-  "description": "Helps you controll your spotify lisining on your busy bar to lisinin anywhere (this used clude code also)",
+  "description": "Control your Spotify listening from your BUSY Bar: see what's playing, skip songs, pause, and like songs. (Made with help from Claude Code.)",
   "changelog": "you can\n1. scroll to change songs\n2. click (OK) to like the song\n3. press [start/pause] to pause the song\n4. back exits the program",
   "screenshots": [
     "screenshots/front-3.png",
