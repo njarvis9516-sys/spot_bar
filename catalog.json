@@ -1,0 +1,23 @@
+{
+  "category": "music",
+  "short_description": "it shows what you are playing",
+  "description": "Helps you controll your spotify lisining on your busy bar to lisinin anywhere (this used clude code also)",
+  "changelog": "you can\n1. scroll to change songs\n2. click (OK) to like the song\n3. press [start/pause] to pause the song\n4. back exits the program",
+  "screenshots": [
+    "screenshots/front-3.png",
+    "screenshots/front-4.png",
+    "screenshots/front-5.png",
+    "screenshots/front-6.png",
+    "screenshots/front-8.png",
+    "screenshots/front-9.png",
+    "screenshots/front-10.png",
+    "screenshots/front-12.png",
+    "screenshots/front-15.png",
+    "screenshots/front-16.png"
+  ],
+  "back_screenshots": [
+    "screenshots/back-1.png",
+    "screenshots/back-2.png",
+    "screenshots/back-3.png"
+  ]
+}

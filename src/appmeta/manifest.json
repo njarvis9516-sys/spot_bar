@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "id": "app.njarvis9516-sys.spot_bar",
+  "name": "spot bar",
+  "version": "0.1.0",
+  "api_version": "27.12.0",
+  "description": "it shows what you are playing",
+  "author": "njarvis9516-sys"
+}

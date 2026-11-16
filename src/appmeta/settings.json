@@ -1,0 +1,30 @@
+{
+  "format_version": 1,
+  "version": 1,
+  "fields": {
+    "client_id": {
+      "type": "string",
+      "label": "Spotify Client ID",
+      "default": "",
+      "max_length": 64
+    },
+    "client_secret": {
+      "type": "string",
+      "label": "Spotify Client Secret",
+      "default": "",
+      "max_length": 64
+    },
+    "refresh_token": {
+      "type": "string",
+      "label": "Spotify Refresh Token",
+      "default": "",
+      "max_length": 255
+    },
+    "access_token": {
+      "type": "string",
+      "label": "Access Token (optional, expires in 1 h)",
+      "default": "",
+      "max_length": 255
+    }
+  }
+}
